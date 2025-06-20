@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm MusaGreethis!
+# 👋 Hi there, I'm MusaGreen!
 
-👀 I'm into fun reads and building cool things.  
+👀 I'm into fun reads and building cool project.  
 💻 Passionate about **Web Development** & **App Development**  
-🐍 A proud **Python master** — automation, scripting, APIs? I'm your guy!  
+🐍 A proud **Python master** — automation, scripting? I'm your guy!  
 🌱 Currently sharpening my skills in **Front-End Development** (React, HTML, CSS, JS)  
 🤝 Always open to **collaborating on exciting projects**  
 📫 Contact me at: **+27 79 483 4163**  
